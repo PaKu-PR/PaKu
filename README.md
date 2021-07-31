@@ -19,6 +19,6 @@
 
 <h3 align="left">My profile stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PaKu-PR&show_icons=true&theme=dark" alt="paku-pr" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaKu-PR&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaKu-PR&theme=dark" alt="paku-prr" /></p>
 
  
