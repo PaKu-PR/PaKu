@@ -1,5 +1,5 @@
 <h1 align="center">Wassup, I'm PaKu</h1>
-<p align="left"> <a href="https://twitter.com/_pakus_" target="blank"><img src="https://img.shields.io/twitter/follow/_pakus_?logo=twitter&style=for-the-badge" alt="_pakus_" /></a> </p>
+</a> </p>
 
 - Working on [private projects](https://github.com/PaKu-PR)
 
